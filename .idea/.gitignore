@@ -3,7 +3,7 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-/src/main/resources/config.properties
+../src/main/resources/config.properties
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
