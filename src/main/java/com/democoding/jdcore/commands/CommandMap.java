@@ -1,4 +1,4 @@
-package com.democoding.kridlminef.commands;
+package com.democoding.jdcore.commands;
 
 import java.util.ArrayList;
 

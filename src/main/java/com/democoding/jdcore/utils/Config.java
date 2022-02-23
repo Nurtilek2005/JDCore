@@ -1,11 +1,8 @@
-package com.democoding.kridlminef.utils;
+package com.democoding.jdcore.utils;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.Properties;
-import java.util.stream.Stream;
 
 /**
  * @author Crunchify.com

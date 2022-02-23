@@ -1,7 +1,7 @@
-package com.democoding.kridlminef;
+package com.democoding.jdcore;
 
-import com.democoding.kridlminef.commands.CommandMap;
-import com.democoding.kridlminef.utils.Config;
+import com.democoding.jdcore.commands.CommandMap;
+import com.democoding.jdcore.utils.Config;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
