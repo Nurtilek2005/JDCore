@@ -1,4 +1,4 @@
-package com.democoding.jdcore.commands;
+package io.jdcore.commands;
 
 import java.util.List;
 

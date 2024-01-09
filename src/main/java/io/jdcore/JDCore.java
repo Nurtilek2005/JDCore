@@ -1,4 +1,4 @@
-package com.democoding.jdcore;
+package io.jdcore;
 
 import javax.security.auth.login.LoginException;
 import java.io.IOException;

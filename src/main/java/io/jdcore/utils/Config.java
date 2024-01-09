@@ -1,13 +1,8 @@
-package com.democoding.jdcore.utils;
+package io.jdcore.utils;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.Properties;
-
-/**
- * @author Crunchify.com
- *
- */
 
 public class Config {
     private final Properties properties = new Properties();

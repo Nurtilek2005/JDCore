@@ -1,7 +1,7 @@
-package com.democoding.jdcore;
+package io.jdcore;
 
-import com.democoding.jdcore.commands.CommandMap;
-import com.democoding.jdcore.utils.Config;
+import io.jdcore.commands.CommandMap;
+import io.jdcore.utils.Config;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;

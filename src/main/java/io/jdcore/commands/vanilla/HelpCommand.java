@@ -1,6 +1,6 @@
-package com.democoding.jdcore.commands.vanilla;
+package io.jdcore.commands.vanilla;
 
-import com.democoding.jdcore.commands.VanillaCommand;
+import io.jdcore.commands.VanillaCommand;
 
 public class HelpCommand extends VanillaCommand {
     public HelpCommand() {
